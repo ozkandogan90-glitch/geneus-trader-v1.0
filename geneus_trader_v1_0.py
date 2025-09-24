@@ -1,7 +1,7 @@
 # ==============================================================================
 # 1) KÜTÜPHANELER
 # ==============================================================================
-!pip install pandas numpy yfinance ipywidgets openpyxl joblib --quiet
+
 
 import ipywidgets as widgets
 from IPython.display import display, clear_output
